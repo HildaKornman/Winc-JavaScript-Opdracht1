@@ -32,8 +32,8 @@ function myFunction7b(){
             document.getElementById ("8d").innerHTML=a;
             } 
         function myFunction8e(){
-            let x=10;
-            let y=x%50;
+            let x=5;
+            let y= x%2;
             document.getElementById ("8e").innerHTML=y;
             }
         function myAge9(){
